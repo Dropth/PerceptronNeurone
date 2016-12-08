@@ -1,0 +1,6 @@
+c:\users\florian\documents\visual studio 2015\Projects\IANeurones\IANeurones\bin\Debug\IANeurones.exe.config
+C:\Users\Florian\documents\visual studio 2015\Projects\IANeurones\IANeurones\bin\Debug\IANeurones.exe
+C:\Users\Florian\documents\visual studio 2015\Projects\IANeurones\IANeurones\bin\Debug\IANeurones.pdb
+C:\Users\Florian\documents\visual studio 2015\Projects\IANeurones\IANeurones\obj\Debug\IANeurones.csprojResolveAssemblyReference.cache
+C:\Users\Florian\documents\visual studio 2015\Projects\IANeurones\IANeurones\obj\Debug\IANeurones.exe
+C:\Users\Florian\documents\visual studio 2015\Projects\IANeurones\IANeurones\obj\Debug\IANeurones.pdb
